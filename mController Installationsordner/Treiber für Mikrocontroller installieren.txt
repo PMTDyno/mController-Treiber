@@ -1,0 +1,5 @@
+1. Ordner "CH341SER" öffnen
+
+2. "SETUP.EXE" ausführen
+
+3. Auf "Install" klicken und Installationsanweisungen folgen
